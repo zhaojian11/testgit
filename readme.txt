@@ -1,6 +1,4 @@
-git is a control system
-
-Creating a new branch is quick and simple.
-
-
+ git is  very 
+  ¹þà¶ÄãºÃ°¡
 aaa
+issue-101 bug
