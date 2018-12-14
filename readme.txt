@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-  i like you 
-=======
- git is  very 
-  ¹þà¶ÄãºÃ°¡
->>>>>>> dev
-create i like my boss
+git is a control system
+
+Creating a new branch is quick & simple.
